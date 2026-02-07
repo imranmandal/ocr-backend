@@ -14,8 +14,10 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
     "express": "^5.2.1",
     "multer": "^2.0.2",
+    "openai": "^6.18.0",
     "tesseract.js": "^7.0.0",
     "typescript": "^5.9.3"
   },
